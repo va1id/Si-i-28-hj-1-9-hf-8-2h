@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         90's Mod
+// @name         Get skidded x-ware!
 // @namespace    http://tampermonkey.net/
 // @version      7.4
-// @description  Running In The 90's
+// @description  fuck u x-ware, ur script sucks
 // @author       ! Feature#2080
 // @match        *://moomoo.io/*
 // @match        *://sandbox.moomoo.io/*
@@ -13,6 +13,28 @@
 // @Functions    Heal
 // @require https://cdn.jsdelivr.net/gh/emn178/js-sha3/build/sha3.min.js
 // ==/UserScript==
+
+// COMMANDS
+
+// .t -au: Auto Upgrade (disable this if it auto upgrades to daggers and you want to change weapon)
+// .t -mill : Triple Mil
+// .t -spin : Auto Spin 
+// .t -heal : Autoheal
+// .t -hat : Hat Loop
+// .t -hit : 360 Hit
+// .t -ghost : Invis Builds
+// .t -gp : Invis Projectiles
+// .t -ab: Auto Break
+// .t -hb: Auto Buy
+// .t -ag : Assassin Gear Heal 
+// .u : Saves your settings so you don't need to retype commands when you reload
+// .d : toggle silent mode (commands and command responses will not be output to chat)
+
+
+alert("[🐮 MooDestroyer ⚔]: MooDestroyer has loaded!
+alert("[🐮 MooDestroyer ⚔]: Make sure to join our discord server! - discord.gg/sewers.
+alert("[🐮 MooDestroyer ⚔]: Also, You are cool!
+
 
 
 //anti invis
