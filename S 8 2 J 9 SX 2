@@ -31,9 +31,9 @@
 // .d : toggle silent mode (commands and command responses will not be output to chat)
 
 
-alert("[🐮 MooDestroyer ⚔]: MooDestroyer has loaded!
-alert("[🐮 MooDestroyer ⚔]: Make sure to join our discord server! - discord.gg/sewers.
-alert("[🐮 MooDestroyer ⚔]: Also, You are cool!
+alert("[🐮 MooDestroyer ⚔]: MooDestroyer has loaded!")
+alert("[🐮 MooDestroyer ⚔]: Make sure to join our discord server! - discord.gg/sewers.")
+alert("[🐮 MooDestroyer ⚔]: Also, You are cool!")
 
 
 
